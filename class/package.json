@@ -1,0 +1,17 @@
+{
+  "name": "@assert/class",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [
+    "class",
+    "assert",
+    "validation",
+    "parse",
+    "HTML"
+  ],
+  "dependencies" : {
+    "@string/isstring" : "1.0.7",
+    "@string/prototype.inspect" : "1.0.1"
+  },
+  "license": "MIT"
+}
