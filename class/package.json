@@ -2,6 +2,7 @@
   "name": "@assert/class",
   "version": "1.0.0",
   "main": "index.js",
+  "description": "Asserts that a class is valid.",
   "keywords": [
     "class",
     "assert",
