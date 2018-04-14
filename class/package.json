@@ -12,7 +12,7 @@
   ],
   "dependencies" : {
     "@string/isstring" : "1.0.6",
-    "@string/prototype.inspect" : "1.0.1"
+    "@string/prototype.inspect" : "1.0.2"
   },
   "license": "MIT"
 }
