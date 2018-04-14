@@ -24,7 +24,7 @@
     if (!String.isString(id))
       throw new TypeError('The first argument must be a string.');
     if (id === '')
-      throw new SyntaxError('The id length must be positive.');
+      throw new SyntaxError('The ID length must be positive.');
 
     switch (type) {
       case 'HTML5':
@@ -47,5 +47,3 @@
     }
   };
 });
-
-

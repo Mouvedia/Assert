@@ -1,6 +1,9 @@
 # Assert
 
 ## id
+
+<img alt="id npm version" align="right" src="https://img.shields.io/npm/v/@assert/id.svg?style=flat-square" />
+
 ### Installation
 ```sh
 npm install --save @assert/id
@@ -14,6 +17,9 @@ npm install --save @assert/id
 ```
 
 ## class
+
+<img alt="class npm version" align="right" src="https://img.shields.io/npm/v/@assert/class.svg?style=flat-square" />
+
 ### Installation
 ```sh
 npm install --save @assert/class
